@@ -1,0 +1,2 @@
+class BabysmileController < ApplicationController
+end
